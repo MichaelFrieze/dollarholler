@@ -1,7 +1,7 @@
+<script>
+  import { formatMe } from '$utils/FormatText';
+</script>
+
 <h1 class="flex text-3xl font-bold underline">Hello world!</h1>
 
-<style lang="postcss">
-  :global(html) {
-    background-color: theme(colors.gray.300);
-  }
-</style>
+<h3>{formatMe('Mike')}</h3>
