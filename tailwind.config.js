@@ -3,8 +3,8 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     fontFamily: {
-      sansSerif: ['Source Sans 3', 'sans-serif'],
-      mono: ['Source Code Pro', 'monospace'],
+      sansSerif: ['Source Sans Pro'],
+      mono: ['Source Code Pro'],
       handwriting: ['Kalam', 'cursive']
     },
     extend: {
