@@ -36,7 +36,7 @@
   class="fixed z-navBar h-screen w-full -translate-x-full bg-daisyBush text-center transition-transform md:relative md:col-span-3 md:h-full md:translate-x-0"
   class:translate-x-0={isNavShowing}
 >
-  <div class="mb-10 mt-10 md:mb-24">
+  <div class="mt-10 mb-10 md:mb-24">
     <a href="/invoices"><img src="/images/logo.svg" alt="The Dollar Holler" class="mx-auto" /></a>
   </div>
 
