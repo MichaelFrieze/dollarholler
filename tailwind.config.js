@@ -29,6 +29,7 @@ export default {
       colors: {
         blueGem: '#3813a0',
         caribbeanGreen: '#00ca9e',
+        caribbeanGreen: '#1CC6A0',
         daisyBush: '#4714a5',
         fog: '#decaec',
         gallery: '#efeaf2',
